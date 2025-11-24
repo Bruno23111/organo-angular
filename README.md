@@ -1,4 +1,5 @@
-![Thumbnail](./thumb.png)
+<img width="1000" height="500" alt="thumb" src="https://github.com/user-attachments/assets/99d89220-01e1-46d2-bfd6-e613e1d5382b" />
+
 
 # Organo
 
